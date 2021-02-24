@@ -1,0 +1,12 @@
+name: Walking
+title: Walking
+username:
+account: anhkhoavo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1610747
+bundleId: 2765075
+url: https://anhkhoavo.shinyapps.io/Walking/
+when: 1580422839.20572
+asMultiple: FALSE
+asStatic: FALSE
